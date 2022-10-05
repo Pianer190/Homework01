@@ -1,0 +1,15 @@
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\bin\Debug\net6.0\HomeworkSem01_Task01.exe
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\bin\Debug\net6.0\HomeworkSem01_Task01.deps.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\bin\Debug\net6.0\HomeworkSem01_Task01.runtimeconfig.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\bin\Debug\net6.0\HomeworkSem01_Task01.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\bin\Debug\net6.0\HomeworkSem01_Task01.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.csproj.AssemblyReference.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.AssemblyInfoInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.AssemblyInfo.cs
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.csproj.CoreCompileInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\refint\HomeworkSem01_Task01.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\HomeworkSem01_Task01.genruntimeconfig.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\HomeworkSem01_Task01\obj\Debug\net6.0\ref\HomeworkSem01_Task01.dll
