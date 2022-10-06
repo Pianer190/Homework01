@@ -22,4 +22,5 @@ int max2 = Max(a2, b2, c3);
 int max3 = Max(a1, b3, c3);
 int max = Max(max1, max2, max3);
 
+
 Console.WriteLine(max);
