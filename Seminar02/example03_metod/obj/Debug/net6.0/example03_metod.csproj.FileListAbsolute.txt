@@ -1,0 +1,5 @@
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example03_metod\obj\Debug\net6.0\example03_metod.csproj.AssemblyReference.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example03_metod\obj\Debug\net6.0\example03_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example03_metod\obj\Debug\net6.0\example03_metod.AssemblyInfoInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example03_metod\obj\Debug\net6.0\example03_metod.AssemblyInfo.cs
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example03_metod\obj\Debug\net6.0\example03_metod.csproj.CoreCompileInputs.cache
