@@ -1,0 +1,15 @@
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\bin\Debug\net6.0\Lecture.exe
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\bin\Debug\net6.0\Lecture.deps.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\bin\Debug\net6.0\Lecture.runtimeconfig.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\bin\Debug\net6.0\Lecture.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\bin\Debug\net6.0\Lecture.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.csproj.AssemblyReference.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.AssemblyInfoInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.AssemblyInfo.cs
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.csproj.CoreCompileInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\refint\Lecture.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\Lecture.genruntimeconfig.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\Lecture\obj\Debug\net6.0\ref\Lecture.dll
