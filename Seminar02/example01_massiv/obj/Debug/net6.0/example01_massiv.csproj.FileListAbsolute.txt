@@ -1,0 +1,15 @@
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.csproj.AssemblyReference.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.AssemblyInfoInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.AssemblyInfo.cs
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.csproj.CoreCompileInputs.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\bin\Debug\net6.0\example01_massiv.exe
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\bin\Debug\net6.0\example01_massiv.deps.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\bin\Debug\net6.0\example01_massiv.runtimeconfig.json
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\bin\Debug\net6.0\example01_massiv.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\bin\Debug\net6.0\example01_massiv.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\refint\example01_massiv.dll
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.pdb
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\example01_massiv.genruntimeconfig.cache
+C:\Users\79161\OneDrive\Рабочий стол\GB\C#\С#\Homwork\HomworkSeminar01\Seminar02\example01_massiv\obj\Debug\net6.0\ref\example01_massiv.dll
